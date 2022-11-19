@@ -1,0 +1,3 @@
+cd \file name
+
+-r requirements.txt
